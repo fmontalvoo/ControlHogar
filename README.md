@@ -25,9 +25,9 @@ Aplicación que permite encender y apagar las luces de una maqueta además de ab
 ### Maqueta
 
 <p align="center">
-    <img src="img/img_05.png" />
+    <img src="img/img_05.jpg" />
 </p>
 <hr>
 <p align="center">
-    <img src="img/img_06.png" />
+    <img src="img/img_06.jpg" />
 </p>
